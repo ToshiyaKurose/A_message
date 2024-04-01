@@ -9,6 +9,11 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #ブログ機能を無効化
 disableKinds = ["home", "taxonomy"]
+#HTMLタグの記入を有効化
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
 
 [Params]
   homeTitle = "気づいてA君攻略"
