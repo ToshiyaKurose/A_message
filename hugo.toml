@@ -1,3 +1,46 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'ja'
+title = '気づいてA君攻略'
+# Using theme as git submodule
+theme = "beautifulhugo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#ブログ機能を無効化
+disableKinds = ["home", "taxonomy"]
+
+[Params]
+  homeTitle = "気づいてA君攻略"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = false
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "P4L"
+  twitter = "about_A_message"
+  discord = "https://discord.gg/78fd4JRETE"
+
+[[menu.main]]
+    name = "ページ一覧"
+    url = "list/"
+    weight = 1
+
+[[menu.main]]
+    name = "謎のヒント"
+    url = "hints/"
+    weight = 2
+
+[[menu.main]]
+    name = "このサイトについて"
+    url = "about/"
+    weight = 10
