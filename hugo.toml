@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #ブログ機能を無効化
-disableKinds = ["home", "taxonomy"]
+disableKinds = ["taxonomy"]
 #HTMLタグの記入を有効化
 [markup]
     [markup.goldmark]
