@@ -310,7 +310,7 @@ draft = false
 {{% accordion title="65(LV1)" %}}
 トップページ > 院生作品 > マンガ > マンガ001 https://kagamino-jrep.net/student-works/manga/manga001budy8m25az6j/
 
-50ページの漫画の内容から連想し「錠剤」で検索すると発見できる。同ページの漫画のが最後のコマまで掲載されている。
+50ページの漫画の内容や「気づいて」アカウントがXに投稿している[動画](https://x.com/about_A_message/status/1769672343272800646?s=20)を基に「錠剤」で検索すると発見できる。同ページの漫画のが最後のコマまで掲載されている。
 {{% /accordion %}}
 
 {{% accordion title="66(LV1)" %}}
