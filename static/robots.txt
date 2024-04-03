@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /list/
+
+Sitemap: https://xn--n8j5ce5322d.com/sitemap.xml
