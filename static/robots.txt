@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /list/
+Disallow:
 
 Sitemap: https://xn--n8j5ce5322d.com/sitemap.xml
