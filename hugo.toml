@@ -46,6 +46,11 @@ disableKinds = ["taxonomy"]
     weight = 2
 
 [[menu.main]]
+    name = "探索記録"
+    url = "memo/"
+    weight = 3
+
+[[menu.main]]
     name = "このサイトについて"
     url = "about/"
     weight = 10

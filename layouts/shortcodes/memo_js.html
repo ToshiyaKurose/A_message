@@ -1,0 +1,2 @@
+{{ $js := resources.Get "js/memo.js" | js.Build "memo.js" | minify | fingerprint }}
+<script defer src="{{ $js.Permalink }}"></script>
