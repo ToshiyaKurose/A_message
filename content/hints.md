@@ -182,7 +182,7 @@ IQテスト出題に記載されている問題は実際に謎として解くこ
 この漫画には、幾度にも渡り改竄が加えられている。
 オリジナルから最終的に発表されたものまでを順に並べると
 
-116ページ版→97ページ版→77ページ版→Xの[@about_A_message](https://x.com/about_A_message?s=20)がアップロードした隠し撮り動画版([1](https://x.com/about_A_message/status/1770403913893867813?s=20), [2](https://x.com/about_A_message/status/1770760513661935942?s=20), [3](https://x.com/about_A_message/status/1771133219536306303?s=20), [4](https://x.com/about_A_message/status/1771477236903821632?s=20))→ページ52版
+116ページ版→97ページ版→77ページ版→Xの[@about_A_message](https://x.com/about_A_message?s=20)がアップロードした隠し撮り動画版([1](https://x.com/about_A_message/status/1770403913893867813?s=20), [2](https://x.com/about_A_message/status/1770760513661935942?s=20), [3](https://x.com/about_A_message/status/1771133219536306303?s=20), [4](https://x.com/about_A_message/status/1771477236903821632?s=20))→52ページ版
 
 となる。
 {{% /accordion %}}
