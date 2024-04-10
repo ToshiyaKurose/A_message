@@ -219,6 +219,8 @@ draft = false
 
 {{% accordion title="46(LV0)" %}}
 トップページ > 院生作品 > 写真 > 写真006 https://kagamino-jrep.net/student-works/photo/photo006/
+
+この写真には謎が仕込まれている。
 {{% /accordion %}}
 
 {{% accordion title="47(LV0)" %}}
