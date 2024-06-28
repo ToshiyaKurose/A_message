@@ -51,6 +51,11 @@ disableKinds = ["taxonomy"]
     weight = 3
 
 [[menu.main]]
+    name = "関連商品"
+    url = "goods/"
+    weight = 4
+
+[[menu.main]]
     name = "このサイトについて"
     url = "about/"
     weight = 10
