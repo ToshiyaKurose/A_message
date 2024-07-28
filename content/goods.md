@@ -8,7 +8,7 @@ draft = false
 
 送料は全国一律700円、海外発送は非対応となっています。
 
-当サイトでは海外在住交錯員の方には転送サービスの利用を推奨します。
+当サイトでは海外在住交錯員の方には転送サービスの利用または電子版を推奨します。
 
 ## 公式設定資料パンフレット
 
@@ -22,7 +22,9 @@ draft = false
 
 価格:2200円(税込)
 
-[購入ページ](https://daiyonkyokai.stores.jp/items/662a6c294b7d391aa5239008)
+[書籍版](https://daiyonkyokai.stores.jp/items/662a6c294b7d391aa5239008)
+
+[電子版](https://amzn.asia/d/00sUWF52)
 
 ## 令和6年度施設案内冊子
 
@@ -34,4 +36,6 @@ draft = false
 
 価格:2200円(税込)
 
-[購入ページ](https://daiyonkyokai.stores.jp/items/662a6d464b7d391ae8239031)
+[書籍版](https://daiyonkyokai.stores.jp/items/662a6d464b7d391ae8239031)
+
+[電子版](https://amzn.asia/d/0hCYCgPv)
