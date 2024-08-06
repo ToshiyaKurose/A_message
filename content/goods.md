@@ -22,7 +22,7 @@ draft = false
 
 価格:2200円(税込)
 
-[書籍版](https://daiyonkyokai.stores.jp/items/662a6c294b7d391aa5239008)
+[書籍版](https://shop.daiyonkyokai.net/products/kagaminopamphlet)
 
 [電子版](https://amzn.asia/d/00sUWF52)
 
@@ -36,6 +36,6 @@ draft = false
 
 価格:2200円(税込)
 
-[書籍版](https://daiyonkyokai.stores.jp/items/662a6d464b7d391ae8239031)
+[書籍版](https://shop.daiyonkyokai.net/products/kagaminosasshi)
 
 [電子版](https://amzn.asia/d/0hCYCgPv)
