@@ -19,16 +19,16 @@ for (let checkbox of checkboxes) {
     }
     checkbox.addEventListener('change', ()=>{
         data.setItem(number, parseInt(data.getItem(number)) ^ 1);
-    })
+    });
 }
 
 // データ初期化
 if (!data.hasOwnProperty('note')) {
-    data.setItem('note', '')
+    data.setItem('note', '');
 }
 // ノート反映
 note.value = data.getItem('note');
 // ノート更新
 note.addEventListener('input', ()=>{
     data.setItem('note', note.value);
-})
+});
