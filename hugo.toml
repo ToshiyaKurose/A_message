@@ -28,12 +28,11 @@ disableKinds = ["taxonomy"]
   socialShare = true
   delayDisqus = true
   showRelatedPosts = false
-
-[Author]
-  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "P4L"
-  twitter = "about_A_message"
-  discord = "https://discord.gg/78fd4JRETE"
+  [Params.Author]
+    # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+    name = "P4L"
+    twitter = "about_A_message"
+    discord = "https://discord.gg/78fd4JRETE"
 
 [[menu.main]]
     name = "ページ一覧"
