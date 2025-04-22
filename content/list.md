@@ -113,7 +113,7 @@ draft = false
 {{% accordion title="23(LV1)" %}}
 トップページ > 院生作品 > 絵画 > 絵画004 https://kagamino-jrep.net/student-works/kaiga/kaiga004/
 
-絵画一覧(ページ19)からリンクされておらず、ページ20~22,24~31からの類推によりURLを導き出すことで発見できる。
+絵画一覧(ページ19)からリンクされておらず、ページ20\~22,24\~31からの類推によりURLを導き出すことで発見できる。
 {{% /accordion %}}
 
 {{% accordion title="24(LV0)" %}}
