@@ -40,7 +40,7 @@ draft = false
 {{% /accordion %}}
 
 {{% accordion title="来年もやります!毎年3月は○○祭" %}}
-[こちら](https://kagamino-jrep.net/news250306/)のお知らせが手がかりです。
+[こちら](https://kagamino-jrep.net/news250306/)のお知らせまたは令和6年度施設案内冊子の8ページが手がかりです。
 
     {{% accordion title="答え" %}}
 「表現」祭
