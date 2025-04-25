@@ -197,4 +197,6 @@ IQテスト出題に記載されている問題は実際に謎として解くこ
 116ページ版→97ページ版→77ページ版→Xの[@about_A_message](https://x.com/about_A_message?s=20)がアップロードした隠し撮り動画版([1](https://x.com/about_A_message/status/1770403913893867813?s=20), [2](https://x.com/about_A_message/status/1770760513661935942?s=20), [3](https://x.com/about_A_message/status/1771133219536306303?s=20), [4](https://x.com/about_A_message/status/1771477236903821632?s=20))→52ページ版
 
 となる。
+
+なお、これら全ての版及び描かれなかった完成稿を実際に購入できる。[関連商品](/goods/)を参照。
 {{% /accordion %}}
