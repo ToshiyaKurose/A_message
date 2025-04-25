@@ -1,2 +1,4 @@
+{{- $category := .Get "category" | default "" }}
+<input type="hidden" id="category" value="{{ $category }}">
 {{ $js := resources.Get "js/memo.js" | js.Build "memo.js" | minify | fingerprint }}
 <script defer src="{{ $js.Permalink }}"></script>

@@ -55,9 +55,23 @@ disableKinds = ["taxonomy"]
     weight = 4
 
 [[menu.main]]
+    name = "施設案内冊子"
+    weight = 5
+
+[[menu.main]]
+    name = "令和6年度"
+    url = "book/r6/"
+    parent = "施設案内冊子"
+
+[[menu.main]]
+    name = "令和7年度"
+    url = "book/r7/"
+    parent = "施設案内冊子"
+
+[[menu.main]]
     name = "シナイドリ解体センター"
     url = "shinaidori/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "このサイトについて"
