@@ -8,7 +8,7 @@ draft = false
 
 このサイトは静的サイトジェネレーター[Hugo](https://gohugo.io/)とテーマ[Beautiful Hugo](https://github.com/halogenica/beautifulhugo)を利用して作成されており、GitHub Pages上にホスティングされています。
 
-Amazonのアソシエイトとして、P4Lは適格販売により収入を得ています。
+Amazonのアソシエイトとして、管理人は適格販売により収入を得ています。
 
 ソースは次のリポジトリで公開されています。
 [ToshiyaKurose/A_message](https://github.com/ToshiyaKurose/A_message)
