@@ -31,6 +31,20 @@
             </a>
         </div>
     </div>
+
+    <!-- パターン3 -->
+    <div id="ad3" class="row hideme">
+        <div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-1">
+            <a href="https://www.inamiisland.com/" target="_blank">
+                <img src="/img/banner/inamiisland.png" alt="鋳波島">
+            </a>
+        </div>
+        <div class="col-lg-4 col-md-5">
+            <a href="https://shop.daiyonkyokai.net/products/calendar" target="_blank">
+                <img src="/img/banner/calendar.png" alt="人のカレンダー">
+            </a>
+        </div>
+    </div>
 </section>
 
 <script type="text/javascript">
@@ -40,12 +54,15 @@
 
     /* 表示する広告idを抽選で決定 */
     let ad = "";
-    switch (getRandomInt(2)) {
+    switch (getRandomInt(5)) {
         case 0:
             ad = "ad1";
             break;
         case 1:
             ad = "ad2";
+            break;
+        default:
+            ad = "ad3";
             break;
     }
 
