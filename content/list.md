@@ -83,7 +83,7 @@ draft = false
 {{% accordion title="17(LV0)" %}}
 トップページ > 院内紹介 > 院内マップ https://kagamino-jrep.net/about/map/
 
-※ "第3寮"・"医務課"・"藤棚"の文字詰めがおかしい
+"第3寮"・"医務課"・"藤棚"の文字詰めがおかしい
 {{% /accordion %}}
 
 {{% accordion title="18(LV0)" %}}
@@ -360,7 +360,7 @@ draft = false
 {{% accordion title="73(LV3)" %}}
 愛宝学園職員サイト > 岡部勝博経歴書 https://kagamino-jrep.net/jrepdatabase/plan/staff0xcj4baimq1p/
 
-70,71ページの情報を基に「岡部勝博 ヴィッターマルフ法」で検索すると発見できる。
+70, 71ページの情報を基に「岡部勝博 ヴィッターマルフ法」で検索すると発見できる。
 {{% /accordion %}}
 
 {{% accordion title="74(LV3)" %}}
@@ -378,7 +378,7 @@ draft = false
 {{% accordion title="76(LV3)" %}}
 愛宝学園職員サイト > 高島啓介経歴書 https://kagamino-jrep.net/jrepdatabase/plan/staff0envpoqmf8312/
 
-74,75ページの情報を基に「高島啓介 木南信克」で検索すると発見できる。
+74, 75ページの情報を基に「高島啓介 木南信克」で検索すると発見できる。
 {{% /accordion %}}
 
 {{% accordion title="77(LV3)" %}}
@@ -508,7 +508,7 @@ draft = false
 {{% accordion title="97(LV5)" %}}
 愛宝学園職員サイト > 蒼乃晴翔卒院制作 https://kagamino-jrep.net/jrepdatabase/patientdata/p3egut7bnqf6vo0pbu/
 
-91,103ページの情報を基に「ラボレート PGQデータ」で検索すると発見できる。
+91, 103ページの情報を基に「ラボレート PGQデータ」で検索すると発見できる。
 
 漫画『バイカラー・ムーン』の1つが掲載されている(画像クリックで全編読める)。
 {{% /accordion %}}
@@ -663,37 +663,37 @@ draft = false
 {{% accordion title="121(LV10)" %}}
 愛宝学園職員サイト > 乙坂響2号施術 https://kagamino-jrep.net/jrepdatabase/patientdata/i1howmsi3rxgvdn1v7ntd/
 
-119,120ページの情報を基に「監薬療法」で検索すると発見できる。
+119, 120ページの情報を基に「監薬療法」で検索すると発見できる。
 {{% /accordion %}}
 
 {{% accordion title="122(LV10)" %}}
 愛宝学園職員サイト > 蒼乃晴翔2号施術 https://kagamino-jrep.net/jrepdatabase/patientdata/bkcgfgs8matmxpo7lqjd/
 
-119,120ページの情報を基に「監薬療法」で検索すると発見できる。
+119, 120ページの情報を基に「監薬療法」で検索すると発見できる。
 {{% /accordion %}}
 
 {{% accordion title="123(LV10)" %}}
 愛宝学園職員サイト > 乙坂響3号施術 https://kagamino-jrep.net/jrepdatabase/patientdata/ms6cy42yoxmndqyhrsnfq/
 
-121,122ページの情報を基に「UTT法」で検索すると発見できる。
+121, 122ページの情報を基に「UTT法」で検索すると発見できる。
 {{% /accordion %}}
 
 {{% accordion title="124(LV10)" %}}
 愛宝学園職員サイト > 蒼乃晴翔3号施術 https://kagamino-jrep.net/jrepdatabase/patientdata/lepkniovqz0rwrbisrpdrpdelu/
 
-121,122ページの情報を基に「UTT法」で検索すると発見できる。
+121, 122ページの情報を基に「UTT法」で検索すると発見できる。
 {{% /accordion %}}
 
 {{% accordion title="125(LV10)" %}}
 愛宝学園職員サイト > 乙坂響4号施術 https://kagamino-jrep.net/jrepdatabase/patientdata/ubyynv6jfwsttvkslve3k/
 
-123,124ページの情報を基に「脳孵化術」で検索すると発見できる。
+123, 124ページの情報を基に「脳孵化術」で検索すると発見できる。
 {{% /accordion %}}
 
 {{% accordion title="126(LV10)" %}}
 愛宝学園職員サイト > 蒼乃晴翔4号施術 https://kagamino-jrep.net/jrepdatabase/patientdata/140bqsowcafbjtzm6/
 
-123,124ページの情報を基に「脳孵化術」で検索すると発見できる。
+123, 124ページの情報を基に「脳孵化術」で検索すると発見できる。
 {{% /accordion %}}
 
 {{% accordion title="127(LVX)" %}}
