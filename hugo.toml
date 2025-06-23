@@ -79,6 +79,11 @@ disableKinds = ["taxonomy"]
     weight = 7
 
 [[menu.main]]
+    name = "漫画版"
+    url = "comic/"
+    weight = 8
+
+[[menu.main]]
     name = "このサイトについて"
     url = "about/"
     weight = 10
