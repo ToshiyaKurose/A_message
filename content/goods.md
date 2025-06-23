@@ -22,7 +22,9 @@ draft = false
 
 [電子版](https://amzn.to/4jnEmSS)
 
-## 令和6年度施設案内冊子
+## 施設案内冊子
+
+### 令和6年度
 
 ![令和6年度施設案内冊子](/img/book/r6.png)
 
@@ -35,6 +37,22 @@ draft = false
 [書籍版](https://shop.daiyonkyokai.net/products/kagaminosasshi)
 
 [電子版](https://amzn.to/4jNOfsV)
+
+### 令和7年度
+
+![令和7年度施設案内冊子](/img/book/r7.png)
+
+『かがみの特殊少年更生施設』より、かがみの特殊少年更生施設にて令和7年度に配布されたらしき施設案内冊子です。
+
+施設への入所が必要になった際に、事前に知っておきたい情報がまとめられています。院歌など、サイト未掲載の情報や院生作品なども掲載されています。
+
+こちらの商品をご購入いただくことで、『かがみの特殊少年更生施設』の追加コンテンツをご体験いただけるようになります。
+
+価格:2200円(税込)
+
+[書籍版](https://shop.daiyonkyokai.net/products/kagaminosasshi07)
+
+[電子版](https://amzn.to/46aVKGx)
 
 ## バイカラー・ムーン
 
