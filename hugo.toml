@@ -74,6 +74,11 @@ disableKinds = ["taxonomy"]
     weight = 6
 
 [[menu.main]]
+    name = "ぼくらの表現祭"
+    url = "hyogensai/"
+    weight = 7
+
+[[menu.main]]
     name = "このサイトについて"
     url = "about/"
     weight = 10
