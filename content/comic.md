@@ -15,3 +15,4 @@ draft = false
 ## 購入する
 
 * [2025年7月号](https://amzn.to/4k4A2rc)
+* [2025年8月号](https://amzn.to/450NSp3)
