@@ -564,7 +564,7 @@ draft = false
 {{% accordion title="106(LV6)" %}}
 愛宝学園職員サイト > カネモリ式論文 https://kagamino-jrep.net/jrepdatabase/plan/qeib254jcoilp30bvqpceukri5laqo3if/
 
-97ページの漫画『バイカラー・ムーン』の情報を基に「カネモリ式」で検索すると発見できる。
+97ページの漫画『バイカラー・ムーン』の情報を基に「カネモリ式適合術」で検索すると発見できる。
 {{% /accordion %}}
 
 {{% accordion title="107(LV6)" %}}
