@@ -18,3 +18,4 @@ draft = false
 * [2025年8月号](https://amzn.to/450NSp3)
 * [2025年9月号](https://amzn.to/3Jr9Muu)
 * [2025年10月号](https://amzn.to/3Ix4BZN)
+* [2025年11月号](https://amzn.to/47rvve7)
