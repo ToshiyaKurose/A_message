@@ -47,7 +47,6 @@
     </div>
 
     <!-- パターン4 -->
-    <!--
     <div id="ad4" class="row hideme">
         <div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-1">
             <a href="https://www.inamiisland.com/" target="_blank">
@@ -60,8 +59,9 @@
             </a>
         </div>
     </div>
-    -->
-    <div id="ad4" class="row hideme">
+
+    <!-- パターン5 -->
+    <div id="ad5" class="row hideme">
         <div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-1">
             <a href="https://amzn.to/3HQdo8Y" target="_blank">
                 <img src="/img/banner/kinki.jpg" alt="近畿地方のある場所について">
@@ -70,6 +70,20 @@
         <div class="col-lg-4 col-md-5">
             <a href="https://q.hatena.ne.jp/1754274194" target="_blank" title="情報をお持ちの方はご連絡ください">
                 <img src="/img/banner/503.jpg" alt="503号室の郵便物">
+            </a>
+        </div>
+    </div>
+
+    <!-- パターン6 -->
+    <div id="ad6" class="row hideme">
+        <div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-1">
+            <a href="https://www.nonraison.com/" target="_blank">
+                <img src="/img/banner/nonraison.jpg" alt="Nonraisonオフィシャルサイト">
+            </a>
+        </div>
+        <div class="col-lg-4 col-md-5">
+            <a href="https://amzn.to/47wHdnQ" target="_blank">
+                <img src="/img/banner/quintet.jpg" alt="ノンレゾン 1st写真集 『 QUINTET 』">
             </a>
         </div>
     </div>
@@ -82,7 +96,7 @@
 
     /* 表示する広告idを抽選で決定 */
     let ad = "";
-    switch (getRandomInt(5)) {
+    switch (getRandomInt(9)) {
         case 0:
             ad = "ad1";
             break;
@@ -92,8 +106,14 @@
         case 2:
             ad = "ad3";
             break;
-        default:
+        case 3:
             ad = "ad4";
+            break;
+        case 4:
+            ad = "ad5";
+            break;
+        default:
+            ad = "ad6";
             break;
     }
 
