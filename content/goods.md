@@ -54,6 +54,16 @@ draft = false
 
 [電子版](https://amzn.to/46aVKGx)
 
+## シナイドリぬいぐるみ
+
+![シナイドリぬいぐるみ](/img/shinaidori/shinaidori.png)
+
+少年院の職業訓練の一貫として製造された施設のマスコットキャラクター「シナイドリ」のぬいぐるみです。プライズ版の中身に32分割で封入されていた謎の紙が同梱されています。
+
+価格:3300円(税込)
+
+[購入する](https://shop.daiyonkyokai.net/products/c75d86b9f)
+
 ## 『かがみの特殊少年施設』令和7年度「表現祭」招待状
 
 ![令和7年度「表現祭」招待状](/img/hyogensai/invitation.png)
