@@ -64,6 +64,16 @@ draft = false
 
 [購入する](https://shop.daiyonkyokai.net/products/c75d86b9f)
 
+## シナイドリLINEスタンプ
+
+![かがみの特殊少年更生施設シナイドリSTAMP](/img/shinaidori/line.jpg)
+
+施設公式のシナイドリLINEスタンプです。これを第四境界公式LINEアカウント([@055bbvav](https://lin.ee/75EV41s))に送り、施設の新たな闇に迫ってください。
+
+価格:610円または250コイン(税込)[^1]
+
+[購入する](https://store.line.me/stickershop/product/32045613/ja)
+
 ## 『かがみの特殊少年施設』令和7年度「表現祭」招待状
 
 ![令和7年度「表現祭」招待状](/img/hyogensai/invitation.png)
@@ -137,3 +147,5 @@ draft = false
 価格:2200円(税込)
 
 [購入する](https://amzn.to/4jL1f2w)
+
+[^1]: 地域設定が日本の場合
