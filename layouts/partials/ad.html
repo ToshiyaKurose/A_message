@@ -87,6 +87,20 @@
             </a>
         </div>
     </div>
+
+    <!-- パターン7 -->
+    <div id="ad7" class="row hideme">
+        <div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-1">
+            <a href="https://amzn.to/49y0DLl" target="_blank">
+                <img src="/img/banner/umdc.jpg" alt="都市伝説解体センター">
+            </a>
+        </div>
+        <div class="col-lg-4 col-md-5">
+            <a href="https://www.umdc-test.net/" target="_blank">
+                <img src="/img/banner/umdc_test.png" alt="都市伝説解体・センター試験">
+            </a>
+        </div>
+    </div>
 </section>
 
 <script type="text/javascript">
@@ -96,7 +110,7 @@
 
     /* 表示する広告idを抽選で決定 */
     let ad = "";
-    switch (getRandomInt(9)) {
+    switch (getRandomInt(10)) {
         case 0:
             ad = "ad1";
             break;
@@ -112,8 +126,11 @@
         case 4:
             ad = "ad5";
             break;
-        default:
+        case 5:
             ad = "ad6";
+            break;
+        default:
+            ad = "ad7";
             break;
     }
 
