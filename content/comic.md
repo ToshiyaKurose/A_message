@@ -24,3 +24,5 @@ draft = false
 * [2025年10月号](https://amzn.to/3Ix4BZN)
 * [2025年11月号](https://amzn.to/47rvve7)
 * [2025年12月号](https://amzn.to/4ramGyi)
+* [2026年1月号](https://amzn.to/4r59QAC)
+* [2026年2月号](https://amzn.to/4jRG14d)
